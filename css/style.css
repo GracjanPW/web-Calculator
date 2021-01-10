@@ -1,0 +1,50 @@
+body {
+  height: 100%;
+  width: 100%;
+  background-color: darkslategrey;
+}
+button {
+  width: 80px;
+  height: 60px;
+  margin: 2px;
+}
+main {
+  width: 100%;
+}
+header {
+  text-align: center;
+}
+.row {
+  padding: 0px;
+  margin: 0px;
+}
+.body {
+  padding: 10px;
+  border-radius: 5px;
+  margin: 0 auto;
+  width: max-content;
+  background-color: gray;
+}
+.display {
+  width: 320px;
+  height: 60px;
+  margin: 2px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: white;
+  position: relative;
+}
+#entry {
+  position:absolute;
+  bottom: 10px;
+  right: 10px;
+  margin: 0;
+  padding: 0;
+}
+#calc {
+  position: absolute;
+  bottom: 45px;
+  right: 10px;
+  margin: 0;
+  padding: 0;
+} 
